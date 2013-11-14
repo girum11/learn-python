@@ -1,0 +1,9 @@
+Should I use %s or %r for formatting?
+	 - You should use %s and only use %r for getting debugging information about something. The %r will give you the "raw programmer's" version of variable, also known as the "representation".
+
+Why do you put '' (single-quotes) around some strings and not others?
+ 	 - Mostly it's because of style, but I'll use a single-quote inside a string that has double-quotes.
+
+
+What are """ (three double-quotes) used for in Python?
+	 - Block string definitions.
